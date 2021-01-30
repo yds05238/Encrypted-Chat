@@ -1,0 +1,1 @@
+g++ -Wall -Wno-unused-variable -Wno-unused-parameter -Wextra -Wpedantic  -std=c++17 tests.cpp AES.cpp -o tests -lgtest -lpthread
